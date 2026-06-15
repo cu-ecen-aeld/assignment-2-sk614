@@ -7,3 +7,7 @@ aesd-build
 .vscode/
 test.sh.log
 actions-runner/
+
+Test_*_Runner.c
+build/
+actions-runner/
